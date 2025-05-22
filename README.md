@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">Tenho 22 anos e sou de São Paulo - SP.</p>
+<p align="center">Tenho 22 anos e sou de São Paulo - SP.</p>
 
 ###
 
-<p align="left">✨ Técnica em Informática - Etec.<br>📚 Estudante de Ciência da Computação - PUC-SP.<br>🎲 Estagiária em Inteligência de Dados na Eurochem.</p>
+<p align="center">✨ Técnica em Informática - Etec.<br>📚 Estudante de Ciência da Computação - PUC-SP.<br>🎲 Estagiária em Inteligência de Dados na Eurochem.</p>
 
 ###
 
@@ -20,6 +20,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">Linguagens e Tecnologias</h2>
 
@@ -34,17 +36,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/isinha.vsf">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=isinha.vsf&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/isasnunes/isasnunes/output/snake.svg" alt="Snake animation" />
 
 ###
