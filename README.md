@@ -1,4 +1,4 @@
-<h1 align="left">Oi, eu sou a Isa!</h1>
+<h1 align="left">✨ Oi, eu sou a Isa! ✨</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Técnica em Informática - Etec.<br>📚 Estudante de Ciência da Computação - PUC-SP.<br>🎲 Estagiária em Inteligência de Dados na Eurochem.</p>
+<p align="center">🖥️ Técnica em Informática - Etec.<br>📚 Estudante de Ciência da Computação - PUC-SP.<br>🎲 Estagiária em Inteligência de Dados na Eurochem.</p>
 
 ###
 
